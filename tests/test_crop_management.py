@@ -1,4 +1,3 @@
-
 import pytest
 from cropguardian.crop_management import CropManagement
 
